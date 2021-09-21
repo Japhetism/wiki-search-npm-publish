@@ -1,0 +1,16 @@
+.storybook-container {
+  border: 1px solid #D5D6D5;
+  width: 397px;
+}
+
+.storybook-error {
+  padding: 5px;
+  border-bottom: 1px solid #D5D6D5;
+}
+
+.storybook-loder-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #D5D6D5;
+}

@@ -1,0 +1,9 @@
+.storybook-search {
+  font-weight: 'normal';
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+  width: 395px;
+  padding: 10px;
+  border: 0px solid #D5D6D5;
+}
